@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1389286078 source:d:\downloads\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	<windows.h>
+	"zString.hpp"
+	"main.hpp"
+
+1384423761 d:\downloads\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist\zstring.hpp
+
+1386568826 d:\downloads\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist\main.hpp
+
+1389727117 source:d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	<windows.h>
+	"zString.hpp"
+	"main.hpp"
+
+1389441864 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist\zstring.hpp
+
+1389689190 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist\main.hpp
+
+1390190415 source:d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\backup\mychecklist\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	<windows.h>
+	"zString.hpp"
+	"main.hpp"
+
+1389441864 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\backup\mychecklist\zstring.hpp
+
+1390190624 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\backup\mychecklist\main.hpp
+
+1390205579 source:d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist (final) - copy\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	<windows.h>
+	"zString.hpp"
+	"main.hpp"
+
+1390194955 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist (final) - copy\zstring.hpp
+
+1390205915 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist (final) - copy\main.hpp
+
+1390205579 source:d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	<windows.h>
+	"zString.hpp"
+	"main.hpp"
+
+1390206972 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v2\zstring.hpp
+
+1390206074 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v2\main.hpp
+
+1390312328 source:d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v2 (final)\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	"zString.hpp"
+	"main.hpp"
+
+1390313448 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v2 (final)\zstring.hpp
+
+1390314597 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v2 (final)\main.hpp
+
+1390536883 source:d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	"zString.hpp"
+	"main.hpp"
+
+1390450836 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v3\zstring.hpp
+
+1390457116 d:\workspace\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v3\main.hpp
+
+1401085829 source:d:\lzz\stuffs\mmu\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<direct.h>
+	<vector>
+	"zString.hpp"
+	"main.hpp"
+
+1390450836 d:\lzz\stuffs\mmu\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v3\zstring.hpp
+
+1401086250 d:\lzz\stuffs\mmu\trimester 2 2013 2014\problem solving in programming and system design\project\mychecklist v3\main.hpp
+
